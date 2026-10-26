@@ -1,0 +1,6 @@
+{
+  "name": "Makeup Junction - Luxury Cosmetics & Beauty Store",
+  "description": "Premium cosmetics & beauty e-commerce store in Iqbal Town, Islamabad, Pakistan. Shop authentic makeup, skincare, fragrances, and luxury beauty essentials with nationwide delivery and WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
